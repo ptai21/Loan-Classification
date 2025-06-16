@@ -1,0 +1,11 @@
+# Bỏ các file tạm, thư mục môi trường ảo, và file hệ thống
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
+*.pyc
+.env
+*.pkl
+*.h5
+*.pt
+.DS_Store
+Thumbs.db
