@@ -59,7 +59,7 @@ Inside the `Demo` folder, you will find:
 
 - `loan_classifier_model.pkl` – The pre-trained machine learning model used for prediction.
 - `scaler.pkl` – A file containing the standard scaler used to normalize input data.
-- `web_deploy.py` – A Streamlit application providing a user interface for model interaction.
+- `web_deploy.py` – Streamlit-based web application script.
 
 ### Deployment Instructions
 
