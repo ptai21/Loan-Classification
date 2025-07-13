@@ -22,7 +22,7 @@ Key objectives:
 
     - Select the Best Model: Choose a model that is both accurate and interpretable for real-world deployment.
 
-## Dataset
+## Demo
 
 <p align="center">
   <img src="assets/test.gif" width=800><br/>
