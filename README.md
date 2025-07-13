@@ -10,17 +10,17 @@ This project utilizes traditional machine learning models to predict loan approv
 
 ### Goals:
 
-Develop a predictive and interpretable machine learning model to assist banks in assessing the risk of potential loans and provide transparent, data-driven justifications to encourage investor confidence in lending decisions.
+Develop a predictive and interpretable machine learning model to assist financial institutions in evaluating loan applications. The model aims to support data-driven lending decisions while offering transparency to foster investor confidence.
 
 Key objectives:
 
-    - Analyze: To understand the structure and patterns within the dataset.
+    - Analyze: Understand the structure, distribution, and key relationships within the dataset.
 
-    - Develop Predictive Models: That are robust and well-suited to predict the likelihood of loan approval for new applicants.
+    - Develop Predictive Models: Build robust machine learning models capable of predicting loan approval likelihood.
 
     - Evaluate Models: Compare and evaluate the performance of different models.
 
-    - Select the Best Model: That is both practical for real-world deployment and highly interpretable.
+    - Select the Best Model: Choose a model that is both accurate and interpretable for real-world deployment.
 
 ## Dataset
 
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 ### Overview
 
-This guide explains how to deploy and run a machine learning model using Streamlit. The deployment package contains a pre-trained model that predicts loan classifications and includes necessary preprocessing tools.
+The application is deployed using Streamlit, offering an interactive web interface that allows users to input loan details and receive real-time approval predictions. A pre-trained model and its preprocessing tools are included in the deployment package.
 
 ### Project Structure
 
